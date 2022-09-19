@@ -14,6 +14,7 @@ Project title: marverick dresses
         Mã Hoàng Thủy Tiên                  Student1384667 
         
         Cống Hiển Quân                      Student1357876
+
 ============================
 
 github report link: https://github.com/khangnqts2104024/eProJectsem1/tree/main/report
@@ -21,7 +22,7 @@ github report link: https://github.com/khangnqts2104024/eProJectsem1/tree/main/r
 ============================
 
 eProject published at https://giabao2111.github.io/marverick/
+
 ============================
 
 Thank you for spending your time to look at our work.
-Your site is live at https://giabao2111.github.io/marverick/
