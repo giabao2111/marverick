@@ -17,7 +17,7 @@ Project title: marverick dresses
 
 ============================
 
-github report link: https://github.com/khangnqts2104024/eProJectsem1/tree/main/report
+github report link: https://github.com/giabao2111/marverick/tree/master/report
 
 ============================
 
